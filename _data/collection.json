@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Selections from the Paul Blackburn Collection" ] },
+    "summary": { "en": [ "A series of transcripts of recordings made by the poet Paul Blackburn during the 1960s. Recordings are available through the Archive for New Poetry at the Mandeville Special Collections, UC San Diego. " ] },
+    "items": [
+    ]
+}
