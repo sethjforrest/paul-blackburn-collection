@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sethjforrest.github.io/paul-blackburn-collection/paul-blackburn-reads-his-poetry-at-home-1960/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Paul Blackburn Reads his Poetry at home, 1960" ] },
+    "homepage": [
+      {
+        "id": "https://library.ucsd.edu/dc/object/bb6589998n",
+        "type": "Text",
+        "label": { "en": [ "Paul Blackburn Reads his Poetry at home, 1960" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "library.ucsd.edu/dc",
+        "type": "Agent",
+        "label": { "en": [ "UC San Diego Library Digital Collections" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sethjforrest.github.io/paul-blackburn-collection/paul-blackburn-reads-his-poetry-at-home-1960/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5772.0,
+        "items": [
+          {
+            "id": "https://sethjforrest.github.io/paul-blackburn-collection/paul-blackburn-reads-his-poetry-at-home-1960/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sethjforrest.github.io/paul-blackburn-collection/paul-blackburn-reads-his-poetry-at-home-1960/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://library.ucsd.edu/dc/object/bb6589998n",
+                    "duration": 5772.0
+                },
+                "target": "https://sethjforrest.github.io/paul-blackburn-collection/paul-blackburn-reads-his-poetry-at-home-1960/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
